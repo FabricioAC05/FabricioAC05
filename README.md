@@ -1,4 +1,4 @@
-# Hello, I'm [Fabricio Alvarez] 👋
+# Hello, I'm Fabricio Alvarez 👋
 
 ## Software Developer Specialized in MERN Stack
 
