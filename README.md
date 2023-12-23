@@ -21,13 +21,8 @@ I'm passionate about building efficient and user-friendly web applications. I ha
 ---
 
 ### Featured Projects
-Here you can include a list of your most notable projects, with links to the repositories, brief descriptions, and any relevant details.
+Comming soon
 
 ---
-
-### Contact Me
-- Email: youremail@example.com
-- LinkedIn: [your-linkedin](your-linkedin-url)
-- Portfolio: [your-portfolio](your-portfolio-url)
 
 Thank you for visiting my profile!
